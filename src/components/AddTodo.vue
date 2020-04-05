@@ -5,7 +5,10 @@
 				<input type="text" class="form-control" placeholder="Add item">
 			</div>
 			<div class="col-4">
-				<button class="btn btn-primary btn-block"></button>
+				<button class="btn btn-primary btn-block">
+					<font-awesome-icon icon="plus-circle" />
+          Add
+				</button>
 			</div>
 		</div>
 	</div>
