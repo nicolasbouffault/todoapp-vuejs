@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <div class="todos-wrapper">
+        <div class="todos-wrapper mt-5">
           <div class="todos-header">
             <h2 class="h5">Todo List</h2>
           </div>
@@ -11,7 +11,9 @@
               <li>
                 <input type="checkbox">
                 <label for=""></label>
-                <button class="btn btn-sm btn-danger"></button>
+                <button class="btn btn-sm btn-danger float-right">
+                  <font-awesome-icon icon="trash" :style="{ color: '#fff' }"/>
+                </button>
               </li>
             </ul>
           </div>
