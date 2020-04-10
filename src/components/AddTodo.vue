@@ -1,5 +1,5 @@
 <template>
-	<div class="container mt-5">
+	<div class="container pt-5">
 		<div class="row">
 			<div class="col-8">
 				<input type="text" class="form-control" placeholder="Add item">

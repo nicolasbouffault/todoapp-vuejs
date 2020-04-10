@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+   
   </div>
 </template>
 
@@ -9,7 +9,7 @@
 export default {
   name: 'App',
   components: {
-    
+
   }
 }
 </script>
@@ -22,10 +22,11 @@ export default {
 
   body {
     margin: 0;
+    height: 100%;
   }
 
   #app {
-    height: 100%;
+    height: 100%;;
     background: #f9f9f9;
   }
 
