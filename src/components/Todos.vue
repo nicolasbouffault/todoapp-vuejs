@@ -10,7 +10,7 @@
             <ul>
               <li>
                 <input type="checkbox">
-                <label for=""></label>
+                <label for=""><font-awesome-icon icon="check" size="xs" :style="{ color: '#fff' }"/></label>
                 <button class="btn btn-sm btn-danger float-right">
                   <font-awesome-icon icon="trash" :style="{ color: '#fff' }"/>
                 </button>
